@@ -7,4 +7,4 @@
 
 ## Description
 
-# As you can see here, it is an test(questionaire) about Ala-Too University. Press "Next" button for go to a next question. "Bookmark" button gives us a chance to see the question again, to do it just press it. There are multiple choice questions, select a correct answer. After selecting answers, press "Result" button to see how many correct answers you have. After that click to the "OK' button. It will end up this program. Hope this was helpful and thanks for reading. Good luck! 
+### As you can see here, it is an test(questionaire) about Ala-Too University. Press "Next" button for go to a next question. "Bookmark" button gives us a chance to see the question again, to do it just press it. There are multiple choice questions, select a correct answer. After selecting answers, press "Result" button to see how many correct answers you have. After that click to the "OK' button. It will end up this program. Hope this was helpful and thanks for reading. Good luck! 
